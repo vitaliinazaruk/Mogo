@@ -1516,6 +1516,9 @@ hr {
         width: 40%;
     }
 
+    .nav__menu {
+        padding: 60px 0;
+    }
 
     .section {
         padding: 20px 0;
